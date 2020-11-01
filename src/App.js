@@ -14,13 +14,13 @@ export default function App() {
  
   return (
     <>
-    <Header />
+    {/* <Header />
       
 <Section1/>
 <Section2/>
 < AboutUsSection/>
 <Samplesection />
-<Blog />
+<Blog /> */}
 <Footer />
     
  </>)
