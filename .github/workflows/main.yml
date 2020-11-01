@@ -17,7 +17,7 @@ jobs:
               with:
                 cmd: install 
              
-            - name: creating build
+            - name: creating builds
               run : yarn build
             - name: install surge
               run: yarn add  -g surge
