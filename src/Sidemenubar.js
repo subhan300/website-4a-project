@@ -49,7 +49,7 @@ export default function Sidemenubar() {
       onKeyDown={toggleDrawer(anchor, false)}
     >
       <List>
-       <div><img alt="sks" src="https://www.cortexcopywriter.com/img/logo/logo_desktop_with_name.svg"></img>
+       <div><img alt="skss" src="https://www.cortexcopywriter.com/img/logo/logo_desktop_with_name.svg"></img>
        
        </div>
       
