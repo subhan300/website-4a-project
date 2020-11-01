@@ -12,7 +12,7 @@ function Section1() {
        <>
 <div class="jumbotron py-4 m-0" id="jump"  style={{height:"750px"}}>
   <div className="row py-4 d-flex flex-md-row  text-center " >
-<div className="col-12 col-md-5 py-4 align-content-center"  id="main-cortex-col1" style={{border:"2px solid red",color:"white"}}>
+<div className="col-12 col-md-5 py-4 align-content-center"  id="main-cortex-col1" style={{color:"white"}}>
 
   
   
