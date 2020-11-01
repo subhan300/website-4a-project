@@ -21,7 +21,7 @@ fontSize:"50px"}}>
 
   CORTEX</h1>
 <h1 id="copywriter"  style={{
-fontSize:"46px"}}>COPYWRITER
+fontSize:"46px"}}>COPY WRITER
   </h1>
   
   
