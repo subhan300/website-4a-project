@@ -5,9 +5,9 @@ function MainImg() {
        <>
 
 <div class="header-container-image" >
-        <img src={require("./light.svg")} class="header-front" />
-        <img src={require("./place.svg")}   />
-        <img src={require("./brain.svg")}  class="header-brain" / >
+        <img alt="s" src={require("./light.svg")} class="header-front" />
+        <img alt="dd" src={require("./place.svg")}   />
+        <img alt="sks" src={require("./brain.svg")}  class="header-brain" / >
       </div>
 
 
