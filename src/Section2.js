@@ -1,4 +1,4 @@
-import React,{useRef} from 'react'
+import React from 'react'
  
 import ScrollAnimation from 'react-animate-on-scroll'
 import "./Section1.css"
@@ -21,7 +21,7 @@ function Section2() {
   <div className="row py-4 d-flex flex-md-row flex-column-reverse text-center " >
 <div  className="col-12 col-sm-6 py-4 align-content-center"  id="main-cortex-col1" >
  
- <ScrollAnimation animateIn="flipInX"><img  src={require("./section2img1.svg")}  /></ScrollAnimation>
+ <ScrollAnimation animateIn="flipInX"><img alt="fss" src={require("./section2img1.svg")}  /></ScrollAnimation>
   
   
  
@@ -118,7 +118,7 @@ Content Style Guide
 
 <div className="col-12 col-sm-7 "  id="main-cortex-col2" >
 
-<ScrollAnimation animateIn="flipInX"><img src={require("./section2img2.svg")} /></ScrollAnimation>
+<ScrollAnimation animateIn="flipInX"><img al="skd" src={require("./section2img2.svg")} /></ScrollAnimation>
 
 
 
@@ -142,7 +142,7 @@ Content Style Guide
 <div class="jumbotron py-4 m-0" id="jump" style={{height:"750px"}}>
   <div className="row py-4 d-flex flex-md-row flex-column-reverse text-center " >
 <div className="col-12 col-sm-6 py-4 align-content-center"  id="main-cortex-col1" style={{color:"white"}}>
- <ScrollAnimation animateIn="flipInX" ><img src={require("./section3img3.svg")}  /></ScrollAnimation>
+ <ScrollAnimation animateIn="flipInX" ><img alt="sjs" src={require("./section3img3.svg")}  /></ScrollAnimation>
  
   
   

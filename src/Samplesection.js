@@ -24,7 +24,7 @@ function samplesection() {
      {ImgObj.map((v)=>{return(   <div className="col-12 col-md-4 col-sm-6 text-center
      mt-4">
             <Card className="pb-3 text-center" >
-           <ScrollAnimation  animateIn="zoomIn"> <img className="img-fluid" src={v.src} style={{height:"200px",
+           <ScrollAnimation  animateIn="zoomIn"> <img alt="sk" className="img-fluid" src={v.src} style={{height:"200px",
         width:'500px'}}/></ScrollAnimation>
             <CardContent>
             Here is the first screen in an onboarding process I wrote for a SaaS product. To create a smooth introduction to the product and improve conversion rates, I used reassuring details and informative labels to clear possible uncertainties and reduce ambiguit
@@ -55,7 +55,7 @@ justifyContent:"center"}} id="main-cortex-col2">
      {DigitalCopyImg.map((v)=>{return(   <div className="col-12 col-md-4 col-sm-6 text-center
      mt-4" >
             <Card className="pb-3 text-center " >
-           <ScrollAnimation animateIn="zoomIn"> <img className="img-fluid" src={v.src} style={{height:"200px",
+           <ScrollAnimation animateIn="zoomIn"> <img alt="sjf" className="img-fluid" src={v.src} style={{height:"200px",
         width:'500px'}}/></ScrollAnimation>
             <CardContent>
             Here is the first screen in an onboarding process I wrote for a SaaS product. To create a smooth introduction to the product and improve conversion rates, I used reassuring details and informative labels to clear possible uncertainties and reduce ambiguit

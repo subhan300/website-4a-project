@@ -10,7 +10,7 @@ function AboutUsSection() {
   <div className="row py-md-4 py-0 d-flex flex-md-row flex-column-reverse text-center " 
   id="main-cortex-col1">
 <div className="col-12 col-sm-6 py-4 align-content-center"  id="main-cortex-col1" 
-style={{color:"white"}} id="#main-cortex-col2">
+style={{color:"white"}} >
 
    <ScrollAnimation animateIn="flipInY">
    <div  style={{textAlign:'center',display:'flex',justifyContent:"center"}}>

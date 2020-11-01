@@ -1,4 +1,4 @@
-import React,{useRef} from 'react'
+import React from 'react'
 import {BlogImg} from "./SampleSectionObj"
 import Card from '@material-ui/core/Card';
 import { CardContent } from '@material-ui/core';
@@ -6,9 +6,9 @@ import ScrollAnimation from 'react-animate-on-scroll';
 
 
 
-import useWebAnimations ,{shakeY}from "@wellyshen/use-web-animations"; 
+import useWebAnimations from "@wellyshen/use-web-animations"; 
 function Blog() {
-      const { ref, playState, getAnimation } = useWebAnimations({
+      const { ref } = useWebAnimations({
     keyframes: [{ transform: 'translate(0,0)' }, { transform: 'translate(0px,-25px)' }],
     timing: {
      
@@ -35,7 +35,7 @@ justifyContent:"center"}} id="main-cortex-col2">
      {BlogImg.map((v)=>{return(   <div className="col-12 col-md-4 col-sm-6 text-center
      mt-4" >
             <Card className="pb-3 text-center " ref={ref}>
-           <ScrollAnimation animateIn="zoomIn"> <img className="img-fluid" src={v.src} style={{height:"200px",
+           <ScrollAnimation animateIn="zoomIn"> <img alt="sk" className="img-fluid" src={v.src} style={{height:"200px",
         width:'500px'}}/></ScrollAnimation >
             <CardContent>
             Here is the first screen in an onboarding process I wrote for a SaaS product. To create a smooth introduction to the product and improve conversion rates, I used reassuring details and informative labels to clear possible uncertainties and reduce ambiguit

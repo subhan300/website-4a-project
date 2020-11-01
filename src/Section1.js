@@ -1,4 +1,4 @@
-import React,{useRef}from 'react'
+import React from 'react'
 import "./Section1.css"
 import MainImg from "./MainImg"
 
@@ -28,7 +28,7 @@ fontSize:"46px"}}>COPY WRITER
  
   <hr className="my-4" />
   <p style={{fontSize:"22px"}}>Enhance your communications with psychology-based copywriting and UX writing</p>
-  <a href="#" className="btn  btn-sm disabled rounded-pill  bg-warning" tabindex="-1" 
+  <a  className="btn  btn-sm disabled rounded-pill  bg-warning" tabindex="-1" 
   role="button" aria-disabled="true">Send a message</a>  
  
 </div>
