@@ -1,13 +1,13 @@
 import React from 'react'
-import Card from '@material-ui/core/Card';
-import { CardContent } from '@material-ui/core';
+// import Card from '@material-ui/core/Card';
+// import { CardContent } from '@material-ui/core';
 import "./Section1.css"
 import Avatar from '@material-ui/core/Avatar';
 import "./Section1.css"
-import FacebookIcon from '@material-ui/icons/Facebook';
-import GoogleIcon from '@material-ui/icons/Facebook';
-import TwitterIcon from '@material-ui/icons/Facebook';
-import YouTubeIcon from '@material-ui/icons/YouTube';
+// import FacebookIcon from '@material-ui/icons/Facebook';
+// import GoogleIcon from '@material-ui/icons/Facebook';
+// import TwitterIcon from '@material-ui/icons/Facebook';
+// import YouTubeIcon from '@material-ui/icons/YouTube';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import ScrollAnimation from 'react-animate-on-scroll'
 import { faGoogle ,faTwitter,faFacebookSquare} from '@fortawesome/free-brands-svg-icons'

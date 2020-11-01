@@ -118,7 +118,7 @@ Content Style Guide
 
 <div className="col-12 col-sm-7 "  id="main-cortex-col2" >
 
-<ScrollAnimation animateIn="flipInX"><img al="skd" src={require("./section2img2.svg")} /></ScrollAnimation>
+<ScrollAnimation animateIn="flipInX"><img alt="skd" src={require("./section2img2.svg")} /></ScrollAnimation>
 
 
 
