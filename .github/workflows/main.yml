@@ -22,6 +22,6 @@ jobs:
               run   :  yarn build
           
             - name: install surge
-              run: yarn add  -g surge
+              run: npm install -g surge
             - name : deploy on surge
               run : surge ./build http://animated_pro.surge.sh/ --token ${{secrets.TOKEN}}
