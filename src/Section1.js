@@ -34,7 +34,7 @@ fontSize:"45px"}}>COPY WRITER
 </div>
 
 
-<div className="col-12 col-md-7 text-center"  id="main-cortex-col2" >
+<div className="py-4 col-12 col-md-7 text-center"  id="main-cortex-col2" >
 
 
 <MainImg alt="main"  />
