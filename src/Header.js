@@ -4,7 +4,7 @@ import AccordionSummary from '@material-ui/core/AccordionSummary';
 import AccordionDetails from '@material-ui/core/AccordionDetails';
 import ScrollAnimation from 'react-animate-on-scroll';
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
-import useWebAnimations ,{bounce}from "@wellyshen/use-web-animations"; 
+// import useWebAnimations ,{bounce}from "@wellyshen/use-web-animations"; 
 
 import Sidemenubar from "./Sidemenubar.js"
 
@@ -44,12 +44,12 @@ export default function Header() {
 // animation aove hai
 // const { ref} = useWebAnimations({...bounce,
   // keyframes: [{ transform: 'translate(0,0)' }, { transform: 'translate(0px,-25px)' }],
-  // timing: {
+//   timing: {
    
-    // duration: 1000, // Run for 1000ms
-    // iterations: "5", // Repeat once
+//     duration: 1000, // Run for 1000ms
+//     iterations: "5", // Repeat once
   
-    // easing: ['steps(2'],
+//     // easing: ['steps(2'],
 //   },
 
 // });
@@ -81,7 +81,7 @@ justifyContent:"center"}}>
        
         <AccordionSummary  expandIcon={ <ExpandMoreIcon 
       />}   >
-  <span className="awesome">SWITCH EXPERIENCE </span>
+  <span className="awesome"> SWITCH EXPERIENCE </span>
 
 
 
@@ -93,7 +93,7 @@ justifyContent:"center"}}>
 <div className="col-sm-1">
 
        <div style={{display:"flex",justifyContent:"center",alignItems:"center",
-       height:"52px"
+       height:"53px"
        
        }}>
    <Sidemenubar  />
@@ -119,7 +119,7 @@ justifyContent:"center"}}>
       />
 
     <Avatar  
-      className={classes.large}  style={{marginLeft:"18px"}}     alt="Remy Sharp" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTC3CZYoCZ-N5iNDwNpXVFiU1r6BZu3IFth2g&usqp=CAU"  />     
+      className={classes.large}  style={{marginLeft:"18px"}}     alt="Resks Sharp" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTC3CZYoCZ-N5iNDwNpXVFiU1r6BZu3IFth2g&usqp=CAU"  />     
           
       
 
