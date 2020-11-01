@@ -34,7 +34,7 @@ fontSize:"46px"}}>COPYWRITER
 </div>
 
 
-<div className="col-12 col-md-7 text-center"  id="main-cortex-col2" style={{border:"2px solid yellow"}}>
+<div className="col-12 col-md-7 text-center"  id="main-cortex-col2" >
 
 
 <MainImg/>
