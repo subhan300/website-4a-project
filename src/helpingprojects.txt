@@ -1,0 +1,91 @@
+project 1 - expense tracker
+github: https://github.com/warishasan/expense-tracker
+surge: http://expensecalculator.surge.sh/
+
+project 2 - covid19 (note: the api that I used is under dev right now so it is not sending any data)
+github: https://github.com/warishasan/covid19-App
+surge: http://covid-info.surge.sh/ 
+
+project 3 - shoestore
+github : https://github.com/warishasan/shoe_store
+surge: http://warisshoestore.surge.sh/
+
+project 4A - running queen animation
+github: https://github.com/warishasan/Running-Queen-Animation
+surge : http://runningqueen.surge.sh/
+
+project 4B - animated home page
+github: https://github.com/warishasan/RobotAI
+surge:  http://robotai.surge.sh/
+
+project 5 - animated website
+github: https://github.com/warishasan/bigbang-animated-homepage
+surge: bigbangAI.surge.sh
+
+project 6 - quiz app
+github: https://github.com/warishasan/Quiz-App
+surge: quizmania.surge.sh
+
+project 7A - quiz app WPA
+github: https://github.com/warishasan/Quiz-App-WPA
+netlify: https://quizwpa.netlify.app/
+
+project 7B - clock timer
+github: https://github.com/warishasan/Timer-App---TDD
+surge: http://timer-tdd.surge.sh/
+
+project 8 - spaceX api
+github: https://github.com/warishasan/SpaceX-api-WPA
+surge: https://spacexapp.netlify.app/
+
+project 9 - shopping basket (I integrated this project with my project 3 shoe store)
+github : https://github.com/warishasan/shoe_store
+surge: http://warisshoestore.surge.sh/
+
+project 9B - diaries app
+github: https://github.com/warishasan/Diaries-App
+netlify: https://diarieswaris.netlify.app/
+
+project 10 - forms (formik and yup)
+multi-step form:
+github: https://github.com/warishasan/Multi-step-Form-using-Formik-and-Yup
+surge: http://multistep-form.surge.sh/
+
+simple form: 
+github: https://github.com/warishasan/Simple-Signup-Form-using-Formik-and-Yup
+surge: http://signup-form.surge.sh/
+
+project 11 - taskbox 
+
+I made components in a seperate project, then exported them to bit.dev
+and then I imported those components in my main project
+
+project components:
+github: https://github.com/warishasan/taskbox-components--storybook-
+storybook:  http://taskbox-components.surge.sh/
+bit.dev: https://bit.dev/warishasan/taskbox
+
+final project:
+github: https://github.com/warishasan/Taskbox-Application--component-driven-development-?fbclid=IwAR0-tHJA2NqYdtMQAkupkOc11wquDFxeUsgXgo7egLqvtCYUePxzj-0f310
+storybook:  http://taskbox-screens.surge.sh/
+final app: http://taskbox.surge.sh/
+
+project 12A - blog (with authentication and gated content)
+github: https://github.com/warishasan/Food-blog-using-Gatsby
+netlify: https://karachifoodguide.netlify.app/
+
+project 12B - CRUD
+github: https://github.com/warishasan/Contact-List-App-using-Faunadb-and-Netlify-functions
+netlify: https://waris-contactlist.netlify.app/
+
+project 12C - todo
+github : https://github.com/warishasan/Todo-App-using-faunadb--netlify-functions-and-graphql
+netlify: https://todo-waris.netlify.app/
+
+project 12D - bookmark
+github: https://github.com/warishasan/bookmark-app-faunadb-graphql-netlifyFunctions
+netlify: https://bookmarkforme.netlify.app/
+
+project 12E - virtual lolly
+github: https://github.com/warishasan/virtual-lolly
+netlfiy: https://sharelolly.netlify.app/
