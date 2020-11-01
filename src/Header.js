@@ -1,4 +1,4 @@
-import React,{useRef}from 'react';
+import React from 'react';
 import Accordion from '@material-ui/core/Accordion';
 import AccordionSummary from '@material-ui/core/AccordionSummary';
 import AccordionDetails from '@material-ui/core/AccordionDetails';
@@ -42,17 +42,17 @@ const useStyles = makeStyles((theme) => ({
 
 export default function Header() {
 // animation aove hai
-const { ref} = useWebAnimations({...bounce,
+// const { ref} = useWebAnimations({...bounce,
   // keyframes: [{ transform: 'translate(0,0)' }, { transform: 'translate(0px,-25px)' }],
-  timing: {
+  // timing: {
    
-    duration: 1000, // Run for 1000ms
-    iterations: "5", // Repeat once
+    // duration: 1000, // Run for 1000ms
+    // iterations: "5", // Repeat once
   
     // easing: ['steps(2'],
-  },
+//   },
 
-});
+// });
 
 
 
@@ -70,7 +70,7 @@ const { ref} = useWebAnimations({...bounce,
   return (
     <>
      
-    <div className="container-fluid py-4" style={{backgroundColor:"#B063C0"
+    <div className="container-fluid py-4 text-center" style={{backgroundColor:"#B063C0"
 }}>
   
 <Accordion style={{backgroundColor:"#B063C0"}}>
