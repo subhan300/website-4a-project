@@ -19,7 +19,7 @@ jobs:
              
           
             - name :   nowyarn build
-              run   : false yarn run build
+              run   :  yarn build
           
             - name: install surge
               run: yarn add  -g surge
