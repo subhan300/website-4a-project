@@ -9,7 +9,7 @@ jobs:
             
           
             - name: Setup NodeJs
-              uses: actions/setup-node@1.4.2
+              uses: actions/setup-node@v2-beta
               with:
                node-version: 12.1
             - name: github action for yarn
